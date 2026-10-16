@@ -1,0 +1,6 @@
+{
+  "name": "RBM Partnership Strategic Impact",
+  "description": "An interactive, multi-tiered strategic tracking dashboard for the RBM Partnership to End Malaria, connecting operational Unity activities to Big Push acceleration outcomes and long-term donor-facing survival impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
